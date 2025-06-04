@@ -14,7 +14,7 @@ bg_image_path = "vaffel.png"
 bg_image_base64 = get_base64_image(bg_image_path)
 
 # --- Sett opp side ---
-st.set_page_config(page_title="Golden ways", layout="wide")
+st.set_page_config(page_title="Psykologen og matematikeren", layout="wide")
 
 # --- Legg inn CSS for bakgrunn, knapper, tekstboks og mobiljusteringer ---
 st.markdown(
